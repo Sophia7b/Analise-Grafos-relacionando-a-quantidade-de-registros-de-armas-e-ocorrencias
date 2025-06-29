@@ -15,7 +15,7 @@ Este projeto foi desenvolvido em colaboração por:
 
 - [Maria Clara Colaço](https://github.com/claracolaco)
 - [Pedro Augusto Gonçalves Lucena](https://github.com/pedrodev3005)
-- [Sophia Sales](https://github.com/Sophia7b)
+- [Sophia Sales](https://github.com/sophiasalesf)
 
 ## Como Executar o Projeto
 1. Baixe os arquivos presentes na pasta "Base_dados".
